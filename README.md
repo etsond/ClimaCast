@@ -1,5 +1,5 @@
-# FORECAST
-Forecast is a simple Python script that retrieves the current weather information for a given city using the OpenWeatherMap API. The script prompts the user to enter a city name, and then retrieves the current temperature, weather condition, and wind speed for that city.
+# ClimaCast
+ClimaCast is a simple Python script that retrieves the current weather information for a given city using the OpenWeatherMap API. The script prompts the user to enter a city name, and then retrieves the current temperature, weather condition, and wind speed for that city.
 ## Installation
 To run this script, you must have Python installed on your machine.
 1. Clone this repository to your local machine.
